@@ -7,7 +7,7 @@
 const CONFIG = {
   nomorWAKantin: "6285641286778",
   lokasiKantin: "Kantin Kontainer FAKDA, Dekat Lapangan Voli, Depan FAKDA",
-  googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=Kantin%20Kontainer%20FAKDA",
+  googleMapsUrl: "https://maps.app.goo.gl/aJ2f7ZVZSTY5m1yw5",
   jamBuka: 8,
   jamTutup: 17,
   storageCart: "fakda_cart_v2",
